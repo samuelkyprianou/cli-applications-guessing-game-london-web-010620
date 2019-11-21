@@ -10,4 +10,3 @@ else
   puts "You guessed the correct number!"
 end
 end
-run_guessing_game
