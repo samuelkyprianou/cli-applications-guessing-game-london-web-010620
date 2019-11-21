@@ -9,4 +9,3 @@ elsif num == input
   puts "You guessed the correct number!"
 end
 end
-end
