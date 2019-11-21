@@ -7,6 +7,6 @@ if input == "exit"
 elsif num != input
   puts "Sorry! The computer guessed #{num}."
 else
-  puts "You guessed the correct number!"
+  return "You guessed the correct number!"
 end
 end
